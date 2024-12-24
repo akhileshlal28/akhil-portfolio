@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "I used knowledge of React.js to create a dynamic portfolio",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Sundown Studio Animation",
+    "imageSrc": "projects/project.png",
+    "description": "I used knowledge of Animations in CSS to create an Animated Website",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": " https://akhileshlal28.github.io/sundown-studio-animation/",
+    "source": "https://github.com/akhileshlal28/sundown-studio-animation"
+  },
+  {
+    "title": "Spotify Clone",
+    "imageSrc": "projects/project.png",
+    "description": "I created a spotify clone capable of playing some music.",
+    "skills": ["HTML","CSS","Javascript"],
+    "demo": "https://akhileshlal28.github.io/Spotify-Clone/",
+    "source": "https://github.com/akhileshlal28/Spotify-Clone"
+  }
+]

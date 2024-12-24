@@ -1,0 +1,27 @@
+[
+    {
+      "role": "Web Developer Intern",
+      "organisation": "Prodigy Infotech",
+      "startDate": "Feb, 2024",
+      "endDate": "Mar, 2024",
+      "experiences": ["Had completed 4 Assignment/Projects(Weather App, Tic-Tac-Toe, Stopwatch)"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Web Developer Intern",
+      "organisation": "TechnoHacks Edutech",
+      "startDate": "Aug, 2023",
+      "endDate": "Sept, 2023",
+      "experiences": ["Had completed 4 Assignment/Projects(Calculator, Landing Page, Portfolio)"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Tableau Internship",
+      "organisation": "ZCOER",
+      "startDate": "Jan, 2024",
+      "endDate": "April, 2024",
+      "experiences": ["Had presented a Dashboard and multiple visual representations of given Data using Tableau Software"],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
+  
