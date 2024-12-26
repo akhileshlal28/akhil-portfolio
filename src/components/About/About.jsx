@@ -10,7 +10,7 @@ function About() {
                 <img src={getImageURL("about/image1.png")} alt="about-image" className={styles.aboutImage}/>
                 <div className={styles.about_content}>
                     <div className={styles.aboutItems}>
-                        <img src="assets\about\cursorIcon.png" alt="cursor-image" />
+                        <img src={getImageURL("about/cursorIcon.png")} alt="cursor-image" />
                         <div>
                             <h3>Frontend Developer</h3>
                             <p>I’m a front-end developer with experience
@@ -18,7 +18,7 @@ function About() {
                         </div>
                     </div>
                     <div className={styles.aboutItems}>
-                        <img src="assets\about\serverIcon.png" alt="server-image" />
+                        <img src={getImageURL("about/serverIcon.png")} alt="server-image" />
                         <div>
                             <h3>Backend Developer</h3>
                             <p>I have experience developing fast and
@@ -26,7 +26,7 @@ function About() {
                         </div>
                     </div>
                     <div className={styles.aboutItems}>
-                        <img src="assets\about\uiIcon.png" alt="ui-image" />
+                        <img src={getImageURL("about/uiIcon.png")} alt="ui-image" />
                         <div>
                             <h3>UI Designer</h3>
                             <p>I have designed multiple landing pages and
